@@ -1,3 +1,5 @@
+Still trying to prototype that perfect portfolio webiste, but here are some mini projects
+
 # links
 some relevant small project links are:
 https://movie-app-drd.herokuapp.com  
