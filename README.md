@@ -1,7 +1,7 @@
-Still trying to prototype that perfect portfolio webiste, but here are some mini projects
 
 # links
 some relevant small project links are:
+eremarkable.co
 https://movie-app-drd.herokuapp.com  
 https://natours-drd.herokuapp.com/  
 https://nexter-drd.herokuapp.com/  
